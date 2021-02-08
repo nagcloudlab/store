@@ -1,1 +1,1 @@
-GIT
+gregg readme file
