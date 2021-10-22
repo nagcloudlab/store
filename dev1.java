@@ -1,5 +1,6 @@
 
 
-public class dev2{
-    int v1;
-}
+
+    public class dev1{
+        int var1;
+    }
